@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with custom Automation for birdeye sniper bot | liquidity-sniping & MEV-detection, the #1 birdeye sniper bot. Includes liquidity-sniping and MEV-detection for
 
 
 
